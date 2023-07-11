@@ -9,6 +9,7 @@ use pocketmine\Server;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\event\player\PlayerItemUseEvent;
 use pocketmine\item\Item;
+use pocketmine\block\VanillaBlocks;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\ListTag;
 use pocketmine\nbt\tag\StringTag;
